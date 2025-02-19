@@ -95,5 +95,5 @@ This pproject is licensed under the MIT license.
 ## Contact
 For any queries, feel free to reach out to: 
 - **Email:** anujpatil848@gmail.com
-- **Phone*:* (848) 251-6020
+- **Phone:** (848) 251-6020
 - **Linkedin:** [www.linkedin.com/in/anuj-patil-13b71930a/](https://www.linkedin.com/in/anuj-patil-13b71930a/)
