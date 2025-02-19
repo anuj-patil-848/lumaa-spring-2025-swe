@@ -82,7 +82,7 @@ A full-stack **task management application** built with **React (frontend)** and
 ---
 
 ## Salary Expectations
-Around $3500 - $4000 **monthly**__
+Around $3500 - $4000 **monthly** <br />
 I came around to this number as most full stack internships average around the higher end of this but I am very flexible and willing to negotiate depending on opportunities!
 
 ---
