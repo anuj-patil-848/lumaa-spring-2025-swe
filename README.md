@@ -22,7 +22,6 @@ A full-stack **task management application** built with **React (frontend)** and
 | **PostgreSQL**        | Database |
 | **JWT (JSON Web Tokens)** | Authentication |
 | **Sequelize ORM**      | Database Modeling |
-| **Docker (optional)**  | Containerization |
 
 ---
 
