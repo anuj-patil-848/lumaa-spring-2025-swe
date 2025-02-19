@@ -1,4 +1,4 @@
-# 📌 Task Management App
+# Task Management App
 
 A full-stack **task management application** built with **React (frontend)** and **Node.js with Express (backend)** using **PostgreSQL** as the database.
 
@@ -13,7 +13,7 @@ A full-stack **task management application** built with **React (frontend)** and
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Technology       | Usage                 |
 |-----------------|----------------------|
@@ -43,7 +43,7 @@ A full-stack **task management application** built with **React (frontend)** and
 
 ---
 
-## 🔧 How to Run the Backend
+## How to Run the Backend
 
 1. Navigate to the backend folder:
    ```sh
@@ -58,7 +58,7 @@ A full-stack **task management application** built with **React (frontend)** and
 
 ---
 
-## 🌐 How to Run the Frontend
+## How to Run the Frontend
 
 1. Navigate to the frontend folder:
    ```sh
@@ -73,7 +73,7 @@ A full-stack **task management application** built with **React (frontend)** and
 
 ---
 
-## 🧪 Testing Notes
+## Testing Notes
 - API Testing: Use Postman or cURL to test routes.
 - Unit Tests: Run backend tests using:
   ```sh
