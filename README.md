@@ -82,7 +82,8 @@ A full-stack **task management application** built with **React (frontend)** and
 ---
 
 ## Salary Expectations
-Around $3500 - $4000
+Around $3500 - $4000 monthly**
+I came around to this number as most full stack internships average around the higher end of this but I am very flexible and willing to negotiate depending on opportunities!
 
 ---
 
@@ -92,4 +93,7 @@ This pproject is licensed under the MIT license.
 ---
 
 ## Contact
-For any queries, reach out to anujpatil848@gmail.com
+For any queries, feel free to reach out to: 
+- **Email:** anujpatil848@gmail.com
+- **Phone*:* (848) 251-6020
+- **Linkedin:** [www.linkedin.com/in/anuj-patil-13b71930a/](https://www.linkedin.com/in/anuj-patil-13b71930a/)
